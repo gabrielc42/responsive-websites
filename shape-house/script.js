@@ -1,5 +1,3 @@
-import './style.css';
-
 let counter1 = 0;
 let counter2 = 1;
 let bool = true;
