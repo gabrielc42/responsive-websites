@@ -6,6 +6,16 @@
 
 **changes made:**
 
--
--
--
+Not much, just a small adjustment to top of the page.
+
+style.css:
+
+- .site-header--main { margin-top: -150px; }
+
+- h1 { margin: 3rem .5rem; }
+
+- .site-header { margin-bottom: 3rem; }
+
+index.html:
+
+- divs (for multiple pages) init
